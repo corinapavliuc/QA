@@ -1,0 +1,8 @@
+Найти один любой xPath на любой элемент на любом сайте
+
+https://www.google.de/
+
+Inspect
+copy XPath
+/html/head/script[1]
+/html/body/div[1]/div[4]
